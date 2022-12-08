@@ -1,0 +1,29 @@
+body{
+    background-color: linear-gradient(-45deg, #c01e1e, #cacad4);
+}   
+main{
+    height: 100vh;
+}
+
+.logo{
+    
+    display: flex;
+    justify-content: center;
+}
+
+.Pokedex{
+    height: 55%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#nome-pokemon{
+    color: rgb(37, 14, 65);
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2.5em;
+    font-family: "Poppins", sans-serif;
+}
